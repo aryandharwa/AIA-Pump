@@ -17,7 +17,7 @@ export default function MainPage() {
   const { data: tokens } = useReadContract<any, any, Array<any>>({
     abi: contract_abi,
     address: process.env.NEXT_PUBLIC_TOKEN_FACTORY_ADDRESS! as `0x${string}`,
-    chainId: 12227332,
+    chainId:1320 ,
     functionName: "getAllMemeTokens",
   });
 

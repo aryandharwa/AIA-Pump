@@ -2,7 +2,7 @@
 - https://neo-x-pump.vercel.app/
 ## Project Overview
 
-This sophisticated decentralized application (dApp) represents a cutting-edge platform for the creation, trading, and management of meme-inspired cryptocurrency tokens. Leveraging the robust capabilities of blockchain technology, specifically the `Neo ecosystem` which is EVM compataible , this project offers a seamless interface for users to engage with the burgeoning world of digital assets in a secure, transparent, and user-friendly manner.
+This sophisticated decentralized application (dApp) represents a cutting-edge platform for the creation, trading, and management of meme-inspired cryptocurrency tokens. Leveraging the robust capabilities of blockchain technology, specifically the `AIA ecosystem` which is EVM compataible , this project offers a seamless interface for users to engage with the burgeoning world of digital assets in a secure, transparent, and user-friendly manner.
 
 ## Project Setup
 
@@ -10,11 +10,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aryandharwa/neox-pump
+   git clone https://github.com/aryandharwa/AIA-Pump
    ```
 2. **Navigate into the project directory:**
     ```bash
-        cd neox-pump
+        cd AIA-Pump
    ```
 3. **Move to the frontend directory:**
     ```bash

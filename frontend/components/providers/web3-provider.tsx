@@ -43,10 +43,10 @@ export const config = createConfig(
     walletConnectProjectId: process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID!,
 
     // Required App Info
-    appName: "Pump Poo",
+    appName: "AIA Pump",
 
     // Optional App Info
-    appDescription: "Pump Flow meme coin gen",
+    appDescription:  "AIA Pump meme coin gen",
   })
 );
 
