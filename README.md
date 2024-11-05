@@ -1,8 +1,44 @@
 # Meme Token Generation and Trading Platform
-- https://neo-x-pump.vercel.app/
+- https://aia-pump.vercel.app/
 ## Project Overview
 
 This sophisticated decentralized application (dApp) represents a cutting-edge platform for the creation, trading, and management of meme-inspired cryptocurrency tokens. Leveraging the robust capabilities of blockchain technology, specifically the `AIA ecosystem` which is EVM compataible , this project offers a seamless interface for users to engage with the burgeoning world of digital assets in a secure, transparent, and user-friendly manner.
+
+For both the *Consumer App Track* and *Meme Track*, here’s how you could highlight key points based on the judging criteria:
+
+### Consumer App Track
+1. *Originality:* Present this as a fresh take on token launchpads, catering specifically to meme tokens and community-driven projects.
+2. *Creativity:* Emphasize unique features like community engagement or gamified token launches to make the process fun and user-centric.
+3. *Technical Complexity:*
+   - *Skill Level:* Showcase any advanced blockchain tech (e.g., zero-knowledge proofs, custom tokenomics, or dynamic NFTs).
+   - *Implementation:* Highlight clean, efficient smart contracts and back-end code for scalability.
+4. *Functionality:*
+   - *Performance:* Demonstrate reliable, bug-free deployments.
+   - *Usability:* Ensure an intuitive UI for easy interaction and seamless onboarding for users.
+5. *Impact:*
+   - *Problem-Solving:* Solve the lack of a dedicated meme token launch platform with this innovative approach.
+   - *Social Impact:* Highlight the potential to empower creators and small communities.
+6. *Presentation:*
+   - *Practicality:* Emphasize how the launchpad can support real-world meme token projects.
+   - *Scalability:* Show plans for expanding features or integrating with other blockchain networks.
+
+### Meme Track
+1. *Originality:* A dedicated platform just for meme tokens is novel and embraces the meme culture fully.
+2. *Creativity:* Add entertaining, meme-inspired elements to the UI or launch mechanics (e.g., NFT avatars, quirky badges).
+3. *Technical Complexity:*
+   - *Skill Level:* Balance fun with technical strength, such as efficient smart contract design and performance.
+   - *Implementation:* The technical setup should seamlessly support high-volume, low-cost transactions typical for meme tokens.
+4. *Functionality:*
+   - *Performance:* Prioritize smooth performance with quick transactions.
+   - *Usability:* Make it easy for meme token enthusiasts to create, launch, and interact with tokens.
+5. *Impact:*
+   - *Problem-Solving:* Address the challenge of creating and sharing meme tokens in an easy, low-cost way.
+   - *Social Impact:* Foster creativity, making the meme token space more accessible to casual users.
+6. *Presentation:*
+   - *Practicality:* Focus on providing a simple, effective solution for meme token enthusiasts.
+   - *Scalability:* Discuss future plans for supporting a broader range of meme tokens and social engagement features. 
+
+These points can help tailor your pitch to resonate with both tracks, showing both practicality and a strong cultural fit.
 
 ## Project Setup
 
@@ -136,7 +172,7 @@ The frontend application exemplifies modern web development practices:
 
 ### Anti-Rug Pull Mechanisms
 
-One of the most significant features of this platform is its robust anti-rug pull mechanisms, making it the first truly unruggable meme token launchpad on the Neo ecosystem. Here's why:
+One of the most significant features of this platform is its robust anti-rug pull mechanisms, making it the first truly unruggable meme token launchpad on the AIA ecosystem. Here's why:
 
 - **Smart Contract-Controlled Liquidity**
 The platform's smart contracts, particularly the `TokenFactoryv2`, manage the liquidity pool for each token. This prevents creators from arbitrarily removing liquidity, a common method used in rug pulls.
