@@ -18,8 +18,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Flow Token",
-  description: "Flow Token Generation Center (Just Memes :Ppppp)",
+  title: "AIA Pump",
+  description: "AIA Pump Generation Center (Just Memes :Ppppp)",
 };
 
 export default function RootLayout({
