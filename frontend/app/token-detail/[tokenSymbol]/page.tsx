@@ -119,11 +119,9 @@ export default function TokenDetail() {
   }, [tokenSymbol, tokens, pageToken, calculatedCost]);
 
   const priceData = [
-    { time: '2024-09-28', open: 75.16, high: 82.84, low: 36.16, close: 45.72 },
-    { time: '2024-09-28', open: 45.12, high: 53.90, low: 45.12, close: 48.09 },
-    { time: '2024-09-28', open: 60.71, high: 60.71, low: 53.39, close: 59.29 },
-    { time: '2024-09-29', open: 68.26, high: 68.26, low: 59.04, close: 60.50 },
-    { time: '2024-09-29', open: 67.71, high: 105.85, low: 66.67, close: 91.04 },
+    { time: '2024-11-01', open: 100, high: 105, low: 95, close: 102 },
+  { time: '2024-11-02', open: 102, high: 106, low: 101, close: 103 },
+  { time: '2024-11-03', open: 103, high: 108, low: 102, close: 107 },
 
   ];
 
